@@ -1,0 +1,7 @@
+print("Ejercicio 2")
+print("Dame un número:")
+PrimerNumero=int(input())
+if (PrimerNumero>0) | (PrimerNumero==0):
+  print("Es Mayor o igual a Cero")
+else:
+  print("Es Negativo")
